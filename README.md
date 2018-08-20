@@ -3,4 +3,4 @@
 
 Fall Offseason bot with swerve drive using Microsoft VS
 
-Need to Auto up and running (drive forward)
+Need to get Auto up and running (drive forward)
